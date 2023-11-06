@@ -1,15 +1,15 @@
 # Word Vectors
 
-##Co-occurence Matricies
+## Co-occurence Matricies
 
-###Term-document matrix
+### Term-document matrix
 
-####Syntagmatic association
+#### Syntagmatic association
 
-###Term-term matrix
+### Term-term matrix
 
-####Paradigmatic association
+#### Paradigmatic association
 
-##Pointwise mutual information
+## Pointwise mutual information
 
-###Positive pointwise mutual information
+### Positive pointwise mutual information
