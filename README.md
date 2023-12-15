@@ -1,15 +1,13 @@
-# Word Vectors
+# Syntagmatic association
 
-## Co-occurence Matricies
+Words that regularly occur in conjunction with one another.
 
-### Term-document matrix
+## Term-document matrix
 
-#### Syntagmatic association
+## Term frequency inverse document frequency
 
-### Term-term matrix
+# Paradigmatic association
 
-#### Paradigmatic association
+Words that often appear in similar syntactical situations.
 
 ## Pointwise mutual information
-
-### Positive pointwise mutual information
